@@ -1,3 +1,5 @@
 print("ASS;")
 print("BUTT;")
 print("!;")
+print("By Castiel;")
+print("How you doing, you old pirate?;")
